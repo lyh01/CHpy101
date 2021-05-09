@@ -1,0 +1,13 @@
+*.zip
+*junk*
+*delete-me*
+*.io
+*.bin
+*.yml
+*.yaml
+*.gz
+*.tar
+*.GZ
+*.gzip
+*.GZIP
+*.ipnb_checkpoints*
